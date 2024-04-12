@@ -37,5 +37,5 @@ int main(){
     Arr a;
     a.read();
     a.write();
-    return 0;
+    return 0;//sjh
 }
