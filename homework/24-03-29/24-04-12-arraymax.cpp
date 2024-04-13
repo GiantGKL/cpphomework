@@ -8,7 +8,7 @@ void Array_max::set_value(){
 }
 void Array_max::max_value(){
     int i;
-    max=array[0];
+    max=array[0];  //wzk
     for (i=1;i<10;i++)
         if (array[i]>max)
             max=array[i];
